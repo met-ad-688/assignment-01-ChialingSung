@@ -1,4 +1,4 @@
-# **Assignment 01 - Counting Python & GitHub Mentions**  
+# **Assignment 1: AWS Academy and EC2**  
 **Author**: Chialing Sung    
 
 ##  Description
