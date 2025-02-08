@@ -1,0 +1,1 @@
+pip 25.0 from /home/ubuntu/.local/lib/python3.10/site-packages/pip (python 3.10)
